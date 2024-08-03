@@ -6,4 +6,5 @@ The repository contains the following:
 3. train.py - Uses a model and neural networks to get trained and answer the questions of the user accordingly.
 4. style.css (To be created under the subfolder styles which is contained in the a folder static) - To enhance the interface of the chatbot
 5. index.html (To be created in a folder called templates) - To build the interface of the chatbot
+
 P.S. : If you intend to use this as a part of your project, you are recommended not to do so since it lacks some features.
